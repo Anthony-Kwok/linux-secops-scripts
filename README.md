@@ -11,7 +11,7 @@ Designed for **RHEL-based systems** (RHEL, Rocky, Alma, CentOS Stream) with port
 ### suspicious_process_hunter.sh
 Identifies potentially malicious processes by:
 - Executables running from `/tmp`, `/dev/shm`, or `/var/tmp`
-- Abuse of common LOLBins (curl, wget, nc, bash -i)
+- Abuse of common LOLBins (Lay of the Land Binaries) (curl, wget, nc, bash -i)
 - Processes without a controlling TTY
 
 **Use case:** Initial compromise detection  
