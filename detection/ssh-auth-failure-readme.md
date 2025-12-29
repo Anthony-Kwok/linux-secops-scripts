@@ -187,5 +187,4 @@ Potential extensions include:
 
 MIT License — intended for learning, portfolio use, and defensive security research.
 
-```
-```
+
