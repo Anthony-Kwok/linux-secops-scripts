@@ -3,7 +3,7 @@
 
 ## Overview
 
-This repository contains an **Incident Response–grade SSH authentication failure detection script** designed for real-world SOC, IR, and detection-engineering use.
+This script contains an **Incident Response–grade SSH authentication failure detection script** designed for real-world SOC, IR, and detection-engineering use.
 
 The script analyzes Linux SSH authentication logs to identify **brute force and credential abuse activity** within a configurable **time window**, producing **structured JSON output** suitable for direct SIEM ingestion (e.g., Splunk).
 
